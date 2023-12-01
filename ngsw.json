@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1701397248511,
+  "timestamp": 1701398761039,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -19,7 +19,7 @@
         "/manifest.webmanifest",
         "/polyfills.cfb942df4bde3132.js",
         "/runtime.353d55c91ce32aaf.js",
-        "/styles.1d5b5df320d4e938.css"
+        "/styles.29c483cebdbf9807.css"
       ],
       "patterns": []
     },
@@ -181,7 +181,7 @@
     "/assets/styles/component/_header.scss": "99d30a758e690a111f7bdaf77a413059719e9930",
     "/assets/styles/component/_heading.scss": "9d66a5f4b3496fb13f4af325027cf555124f3d4d",
     "/assets/styles/component/_sidebar.scss": "81ba3e4c0c5fa6e04a6f258621ea3d414ced7cab",
-    "/assets/styles/component/_spinner.scss": "452043e6d0d0cc97dba66d42483c6b42524db63d",
+    "/assets/styles/component/_spinner.scss": "e717f00c4cd02a9e5d2094e7b680589fdd3e921e",
     "/assets/styles/grid/_grid.scss": "a3623733f2676463cc0ee21b47aeedb040d2e362",
     "/assets/styles/grid/_mixins.scss": "5ee35fcb5b911525be4c64ddeb34e528c582621d",
     "/assets/styles/grid/_variables.scss": "6b7a3f75e2d8e5e1dad568c247ec0f08bd625723",
@@ -206,7 +206,7 @@
     "/assets/styles/style.scss": "5a3d034366bc60e2957d21efb551f469d99f781f",
     "/assets/styles/variable.scss": "6e73ef994cfcf95f95a564942e770d1fed33b4e1",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "223a120af424487e8d996561b926d251d9edc870",
+    "/index.html": "b2ba89e0e47ed3f8e9f8939e506c9f1f57517dbf",
     "/main.fabb40833b40edf0.js": "02599ebeea5b1ffc83756f064d9841ac7bd48997",
     "/manifest.webmanifest": "aa5ade09253d61afc02598d2e8e69e809f893b72",
     "/materialdesignicons-webfont.1ac417cfd432fc95.woff": "7ce7769db5658e58a27975d828134571052a7cf8",
@@ -215,7 +215,7 @@
     "/materialdesignicons-webfont.d915be558b2178fe.ttf": "15342d738bd398009374c0d78e35ca69b6eda96f",
     "/polyfills.cfb942df4bde3132.js": "d23b8c2cc2526fa5852e9f330468bedcf9078dbd",
     "/runtime.353d55c91ce32aaf.js": "a03886b24cb00e54b0b805882c48865daa3c2617",
-    "/styles.1d5b5df320d4e938.css": "d1241b649b2d4a6eafa4f32204c1826179ca0353"
+    "/styles.29c483cebdbf9807.css": "3096b3600d1523454cb9fb0e0babc9ccb69521dd"
   },
   "navigationUrls": [
     {
