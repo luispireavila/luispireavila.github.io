@@ -1,7 +1,7 @@
 {
-  "name": "Vacapi",
-  "short_name": "Vacapi",
-  "theme_color": "#46a66d",
+  "name": "MiLoggro",
+  "short_name": "MiLoggro",
+  "theme_color": "#e75e1e",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
